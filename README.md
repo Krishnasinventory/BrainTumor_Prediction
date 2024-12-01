@@ -9,6 +9,7 @@ This project aims to predict the grade of gliomas (lower-grade glioma [LGG] and 
 
 The dataset contains clinical and molecular features of gliomas and can be accessed via the following link:  
 **[https://drive.google.com/drive/folders/15yd_i1Ur_3MQFTujlTVna9OrCKLQC20m?usp=sharing](#)**  
+Please copy the above link and paste in your browser then it will redirect to drive link where the dataset is uploaded
 
 ---
 
